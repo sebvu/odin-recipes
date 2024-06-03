@@ -2,6 +2,7 @@
 
 * {
   background: #e4c59e;
+  font-family: "Times New Roman", Times, serif;
 }
 
 body {
@@ -27,7 +28,7 @@ img {
 
 hr {
   border: 2px dashed #803d3b;
-  width: 95%;
+  width: 90%;
 }
 
 #main-img {
@@ -36,10 +37,17 @@ hr {
 
 .centered-content {
   text-align: center;
-  padding-left: 5%;
-  padding-right: 5%;
 }
 
+.centered-content,
 .recipe {
-  margin-left: 2%;
+  margin: 0 5%;
+}
+
+/* remove margin to condense text for smaller screens */
+@media all and (max-width: 700px) {
+  .centered-content,
+  .recipe {
+    margin: 0;
+  }
 }
