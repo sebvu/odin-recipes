@@ -1,0 +1,46 @@
+/* stylesheet */
+
+* {
+  background: #e4c59e;
+}
+
+body {
+  color: #322c2b;
+}
+
+header,
+footer {
+  text-align: center;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+header h1 {
+  font-size: 40px;
+}
+
+h1,
+h2 {
+  color: #803d3b;
+}
+
+img {
+  border: 5px solid #000;
+  height: auto;
+  max-height: 400px;
+  width: auto;
+  max-width: 100%;
+}
+
+hr {
+  border: 2px dashed #803d3b;
+  width: 95%;
+}
+
+#main-img {
+  border: none;
+}
+
+.recipe {
+  margin-left: 2%;
+}
