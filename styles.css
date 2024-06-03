@@ -8,13 +8,6 @@ body {
   color: #322c2b;
 }
 
-header,
-footer {
-  text-align: center;
-  padding-left: 5%;
-  padding-right: 5%;
-}
-
 header h1 {
   font-size: 40px;
 }
@@ -39,6 +32,12 @@ hr {
 
 #main-img {
   border: none;
+}
+
+.centered-content {
+  text-align: center;
+  padding-left: 5%;
+  padding-right: 5%;
 }
 
 .recipe {

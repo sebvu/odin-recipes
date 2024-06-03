@@ -6,7 +6,7 @@
 
 This is my second personal take of **TOP | Recipe Book**
 
-Ever wanted some awesome, tasty recipes? Well you're at the right place! This is my personal place to find recipes, and I hope you enjoy them as well!
+Ever wanted some awesome, tasty recipes? Well you're at the right place! This is my personal collection of recipes, and I hope you enjoy them as well as I did!
 
 There are currently **three** recipes.
 
@@ -20,5 +20,5 @@ You can access the recipe book through the provided [github pages link.](https:/
 
 ## Roadmap
 
-- [ ] Add CSS
+- [x] Add CSS **2024-06-03**
 - [ ] Add JS
